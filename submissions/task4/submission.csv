@@ -1,0 +1,11 @@
+﻿帧组,帧号,原图判断,0.58 的结果,0.40 的结果
+对照,60,有球,found,found
+对照,145,有球,none,found
+对照,180,无球,none,none
+对照,214,有球,none,found
+对照,225,有球,found,found
+复测,100,有球,found,found
+复测,150,有球,none,none
+复测,200,无球,none,none
+复测,213,有球,none,found
+复测,265,有球,found,found
